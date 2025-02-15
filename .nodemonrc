@@ -1,5 +1,5 @@
 {
-    "verbose": true,
+    "verbose": true, 
     "ignore": [
         "client/**/*",
         "build/**/*",
